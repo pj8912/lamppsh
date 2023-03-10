@@ -40,3 +40,5 @@ lamppsh-res
 lamppsh-stop
 ```
 
+### Contributors
+- (jp)[https://github.com/pj8912]
