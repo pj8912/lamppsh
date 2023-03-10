@@ -24,6 +24,7 @@ chmod +x lamppsh-stop.sh
 ```
 sudo mv lamppsh-start.sh /usr/local/bin/lamppsh-start
 ```
+
 - Do the same for `restart` and `stop`.
 
 ## Start Lampp Server
@@ -40,5 +41,5 @@ lamppsh-res
 lamppsh-stop
 ```
 
-### Contributors
-- (jp)[https://github.com/pj8912]
+## Contributors
+- [jp](https://github.com/pj8912)
