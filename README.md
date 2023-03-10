@@ -1,8 +1,8 @@
 # lamppsh
 lampp commands for linux
 
-Make the executable for `start`,`stop`,`restart` by running the 
-following command
+- Make the executable for `start`,`stop`,`restart` by running the 
+following commands
 
 ### Start
 ```
@@ -18,13 +18,13 @@ chmod +x lamppsh-res.sh
 chmod +x lamppsh-stop.sh
 ```
 
-Move the files to usr/local/bin:
+- Move the files to usr/local/bin:
 
 ### For Start
 ```
 sudo mv lamppsh-start.sh /usr/local/bin/lamppsh-start
 ```
-Do the same for restart and stop.
+- Do the same for `restart` and `stop`.
 
 ## Start Lampp Server
 ```
