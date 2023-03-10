@@ -30,4 +30,13 @@ Do the same for restart and stop.
 ```
 lamppsh-start
 ```
+## Restart Lampp 
+```
+lamppsh-res
+```
+## Stop Lampp
+
+```
+lamppsh-stop
+```
 
