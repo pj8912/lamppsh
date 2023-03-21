@@ -1,6 +1,10 @@
 # lamppsh
 lampp commands for linux
 
+
+![newlampp](https://user-images.githubusercontent.com/59218902/226540930-d835bea5-9c4e-415e-aee0-f51ca8cdcd29.png)
+
+
 - Make the executable for `start`,`stop`,`restart` by running the 
 following commands
 
